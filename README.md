@@ -1,5 +1,5 @@
 
-<div>
+<div style="height: 100px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues-dev&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=grodrigues-dev">
 </div>
