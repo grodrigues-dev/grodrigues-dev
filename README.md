@@ -1,8 +1,7 @@
 
 <div >
-  <p style="color:blue;">teste</p>
-  <img  style="height: 100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues-dev&layout=compact">
-  <img  style="height: 100px"  src="https://github-readme-stats.vercel.app/api?username=grodrigues-dev">
+  <img  heigth="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues-dev&layout=compact">
+  <img  heigth="100" src="https://github-readme-stats.vercel.app/api?username=grodrigues-dev">
 </div>
 <!--
 **grodrigues-dev/grodrigues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
